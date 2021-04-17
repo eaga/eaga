@@ -1,5 +1,14 @@
-### Hi [AG-STUDIO][website] there 👋
+### Hola, soy Ameth Gomez  👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/agomez3112?color=1DA1F2&label=agomez3112&logo=twitter&style=for-the-badge)][twitter]
+
+Consultor Tecnológico || Administrador de Proyectos PMP || Hacking Ético || Seguridad Informática ||
+
+Me desempeño dentro del área de tecnología como Consultor Tecnológico, Administrador de Sistemas e Infraestructura, Administrador de Seguridad, Administrador de Proyectos. Orientado a resultados y partidario de tecnologías disruptivas.
+
+Mi pasión la tecnología y sus constantes retos y cambios que sirven de herramientas para la optimización y mejora continua de los recursos, además de ser medio para alcanzar los objetivos trazados.
+
+Durante mi vida laboral me he desempeñado en diversas áreas de tecnología tales como servicio al cliente, soporte técnico,
+administrador de sistemas, infraestructura y base de datos, programador, Operaciones y Gerente de tecnología. 
 
 [<img src="https://media1.tenor.com/images/f57bd258ada9846ed6102f9f06780ede/tenor.gif?itemid=13995867">][website]
 
