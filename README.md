@@ -12,18 +12,9 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 
 [<img src="https://media1.tenor.com/images/f57bd258ada9846ed6102f9f06780ede/tenor.gif?itemid=13995867">][website]
 
-### 💻 Developer 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 ---
 
-###  Acerca de 
+###  Acerca de mi
 
 ### 🔗 Administrador de Infraestructura IT
 |  |  |  |  |   | 
@@ -43,8 +34,12 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 |<img align="left" alt="HTML" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />|<img align="left" alt="PHP" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"  /> | <img align="left" alt="Laravel" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"  /> |<img align="left" alt="Bootstrap" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  />  | <img align="left" alt="MySql" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"  />  |<img align="left" alt="SQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  />  |<img align="left" alt="Nodejs" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  />  |
 - Siendo Analista y Administrador de Sistemas he trabajado  en tecnología web (Bootstrap + PHP - Laravel) y base de datos  SQL de Microsoft y Mysql, Nodejs y Mule ESB para microservicios...
 
+### 🚀 Capacitacion Continua
+- Actualmente estoy profundizando sobre BIG DATA y  Data Science bajo tecnología Python, R y RStudio
+
 <br><br><br/>
 
+ 
 ***
 ### 📘 Blog posts
 <!-- BLOG-POST-LIST:START -->
