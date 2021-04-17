@@ -23,6 +23,16 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 - ⚡ Fun fact: ...
 ---
 
+###  Infraestructura TI
+|  |  |
+| --- | --- |
+| [<img align="left" alt="Windows" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"  />][blog]|[<img align="left" alt="Linux" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"  />][blog] |
+| git diff | Muestra las diferencias de archivo que no han sido preparadas |
+
+
+[<img align="left" alt="Azure" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"  />][blog] 
+
+
 ### 🚀 Coding
 
 [<img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />][blog] 
@@ -32,9 +42,7 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 [<img align="left" alt="SQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  />][blog]
 [<img align="left" alt="Bootstrap" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  />][blog]
 [<img align="left" alt="Nodejs" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  />][blog]
-[<img align="left" alt="Windows" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"  />][blog]
-[<img align="left" alt="Linux" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"  />][blog]
-[<img align="left" alt="Azure" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"  />][blog] 
+
 
 <br><br><br/>
 
