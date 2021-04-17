@@ -24,13 +24,9 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 ---
 
 ###  Infraestructura TI
-|  |  |
-| --- | --- |
-| [<img align="left" alt="Windows" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"  />][blog]|[<img align="left" alt="Linux" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"  />][blog] |
-| git diff | Muestra las diferencias de archivo que no han sido preparadas |
-
-
-[<img align="left" alt="Azure" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"  />][blog] 
+|  |  |  |  |  
+| --- | --- | --- | --- |
+|[<img align="left" alt="Windows" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"  />]|[<img align="left" alt="Linux" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"  />] | [<img align="left" alt="Azure" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"  />] |[<img align="left" alt="Azure" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"  />]  |
 
 
 ### 🚀 Coding
@@ -55,4 +51,3 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 <!-- Links -->
 [website]: https://www.sanfranciscopa.com/
 [twitter]: https://twitter.com/agomez3112
-[blog]: https://www.sanfranciscopa.com/ 
