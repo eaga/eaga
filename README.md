@@ -25,7 +25,7 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 ### 🔗 Ingeniero de Seguridad / Analista de ciberseguridad
 |  |  |  |
 | --- | --- | --- |
-|<img align="left" alt="Fortinet" width="64px" src="https://w7.pngwing.com/pngs/732/418/png-transparent-fortinet-fortigate-100d-fortinet-fg-30d-bdl-950-12-h-w-plus-24x7-fc-and-fg-utm-bdl-1-year-firewall-firewall-icon-computer-network-text-logo.png"  />|<img align="left" alt="Symantec" width="64px" src="https://img2.freepng.es/20180810/iuf/kisspng-logo-symantec-public-key-certificate-computer-secu-affiliates-colour-hosting-hosting-domains-vps-d-5b6e1f8dc11914.1982104715339436937909.jpg"  /> | <img align="left" alt="McAfee" width="64px" src="https://logodownload.org/wp-content/uploads/2019/05/mcafee-logo.png"  />   |
+|<img align="center" alt="Fortinet" width="64px" src="https://w7.pngwing.com/pngs/732/418/png-transparent-fortinet-fortigate-100d-fortinet-fg-30d-bdl-950-12-h-w-plus-24x7-fc-and-fg-utm-bdl-1-year-firewall-firewall-icon-computer-network-text-logo.png"  />|<img align="left" alt="Symantec" width="64px" src="https://img2.freepng.es/20180810/iuf/kisspng-logo-symantec-public-key-certificate-computer-secu-affiliates-colour-hosting-hosting-domains-vps-d-5b6e1f8dc11914.1982104715339436937909.jpg"  /> | <img align="left" alt="McAfee" width="64px" src="https://logodownload.org/wp-content/uploads/2019/05/mcafee-logo.png"  />   |
 - Como Ingeniero de Seguridad y Analista de ciberseguridad  me  he  desempeñado en el  diseño y construccion  de plataformas de seguridad (Firewall + VPN), Politicas de seguridad, grupos de trabajo, Active Directory, Pentesting...
 
 ### 🔗 Analista / Administrador de sistemas
