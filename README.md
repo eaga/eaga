@@ -38,8 +38,11 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 - Actualmente estoy profundizando sobre BIG DATA y  Data Science bajo tecnología Python, R y RStudio
 
 <br><br><br/>
+## &#x1f4c8; Mis Estadisticas
 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EAGA&hide=java&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EAGA&hide=stars,prs,issues,contribs&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 ***
 ### 📘 Blog posts
 <!-- BLOG-POST-LIST:START -->
