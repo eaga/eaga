@@ -1,5 +1,5 @@
 ### Hola, soy Ameth Gomez  👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/agomez3112?color=1DA1F2&label=agomez3112&logo=twitter&style=for-the-badge)][twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/eaga3112?color=1DA1F2&label=agomez3112&logo=twitter&style=for-the-badge)][twitter]
 
 Consultor Tecnológico || Administrador de Proyectos PMP || Hacking Ético || Seguridad Informática ||
 
@@ -50,5 +50,5 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 
 
 <!-- Links -->
-[website]: https://www.sanfranciscopa.com/
-[twitter]: https://twitter.com/agomez3112
+[website]: https://eaga.github.io/
+[twitter]: https://twitter.com/eaga3112
