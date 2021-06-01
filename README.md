@@ -1,5 +1,5 @@
 ### Hola, soy Ameth Gomez  👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/eaga3112?color=1DA1F2&label=agomez3112&logo=twitter&style=for-the-badge)][twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/eaga3112?color=1DA1F2&label=eaga3112&logo=twitter&style=for-the-badge)][twitter]
 
 Consultor Tecnológico || Administrador de Proyectos PMP || Hacking Ético || Seguridad Informática ||
 
