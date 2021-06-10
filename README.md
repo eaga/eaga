@@ -32,9 +32,9 @@ administrador de sistemas, infraestructura y base de datos, programador, Operaci
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |<img align="middle" alt="HTML" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />|<img align="middle" alt="PHP" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"  /> | <img align="middle" alt="Laravel" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"  /> |<img align="middle" alt="Bootstrap" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  />  | <img align="middle" alt="MySql" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"  />  |<img align="middle" alt="SQL" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"  />  |<img align="middle" alt="Nodejs" width="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  />  |
-- Siendo Analista y Administrador de Sistemas he trabajado  en tecnología web (Bootstrap + PHP - Laravel) y base de datos  SQL de Microsoft y Mysql, Nodejs y Mule ESB para microservicios...
+- Siendo Analista y Administrador de Sistemas he trabajado  en tecnología web (Bootstrap + PHP - Laravel) y base de datos  SQL de Microsoft y Mysql, Nodejs y Mule ESB para micro servicios...
 
-### 🚀 Capacitacion Continua
+### 🚀 Capacitación Continua
 - Actualmente estoy profundizando sobre BIG DATA y  Data Science bajo tecnología Python, R y RStudio
 
 <br><br><br/>
